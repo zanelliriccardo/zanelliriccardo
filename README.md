@@ -18,14 +18,10 @@ My studies are focused on Machine Learning and Data Science since my Bachelor De
 
 
 :loudspeaker: **Contacts:**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuelsalamino/)
-- `manuelsalamino@gmail.com`
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-zanelli-502b05206/)
+- `zanelliriccardo@outlook.com`
 
 
 :boy: **About me:**
 
 - 🌱 I’m currently learning how to get prepared for a job interview
-- 🔭 I worked on Anomaly Detection field during my Master Thesis
-- :musical_note: I listen a lot of music
-- :running: I do a lot of sport
-- :cocktail: I worked as bartender in wedding and birthday parties during my Bachelor's and Master's Degree
