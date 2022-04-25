@@ -10,18 +10,21 @@ My studies are focused on Machine Learning and Data Science since my Bachelor De
 
 :pushpin: **Projects:**
  - [Time Series Forecasting Homework](https://github.com/zanelliriccardo/TimeSeriesForecasting)
- - [Image Classification](https://github.com/zanelliriccardo/ImageClassification)
+ - [Image Classification Homework](https://github.com/zanelliriccardo/ImageClassification)
  - [Zillow Prediction](https://github.com/zanelliriccardo/ZillowHouses)
  - [Recommender Systems Challenge](https://github.com/zanelliriccardo/RecommenderSystemsChallenge)
- - [Data bases Course Project](https://github.com/zanelliriccardo/ProjDB2)
+ - [Data Bases Course Project](https://github.com/zanelliriccardo/ProjDB2)
  - [Software Engineering Course Project](https://github.com/zanelliriccardo/progettoingsw)
-
 
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-zanelli-502b05206/)
 - `zanelliriccardo@outlook.com`
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zanelliriccardo&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanelliriccardo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 :boy: **About me:**
 
-- 🌱 I’m currently learning how to get prepared for a job interview
+- I’m currently learning how to get prepared for a job interview
+- I worked on Uncertainty field during my Master Thesis
