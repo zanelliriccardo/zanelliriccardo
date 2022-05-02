@@ -9,8 +9,8 @@ My studies are focused on Machine Learning and Data Science since my Bachelor De
  - Bachelor of Science in Computer Engineering at `Politecnico di Milano`
 
 :pushpin: **Projects:**
- - [Time Series Forecasting Homework](https://github.com/zanelliriccardo/TimeSeriesForecasting)
- - [Image Classification Homework](https://github.com/zanelliriccardo/ImageClassification)
+ - [Time Series Forecasting](https://github.com/zanelliriccardo/TimeSeriesForecasting)
+ - [Image Classification](https://github.com/zanelliriccardo/ImageClassification)
  - [Zillow Prediction](https://github.com/zanelliriccardo/ZillowHouses)
  - [Recommender Systems Challenge](https://github.com/zanelliriccardo/RecommenderSystemsChallenge)
  - [Data Bases Course Project](https://github.com/zanelliriccardo/ProjDB2)
