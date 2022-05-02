@@ -27,4 +27,4 @@ My studies are focused on Machine Learning and Data Science since my Bachelor De
 :boy: **About me:**
 
 - I’m currently learning how to get prepared for a job interview
-- I worked on Uncertainty field during my Master Thesis
+- I'm currently working in Uncertainty field during my Master Thesis
