@@ -20,7 +20,7 @@ My studies are focused on Machine Learning and Data Science since my Bachelor De
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-zanelli-502b05206/)
 - `zanelliriccardo@outlook.com`
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zanelliriccardo&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zanelliriccardo&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanelliriccardo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
