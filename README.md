@@ -5,7 +5,7 @@ I'm Riccardo Zanelli and I'm a Computer Science and Engineering student at Polit
 My studies are focused on Machine Learning and Data Science since my Bachelor Degree.
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/zanelliriccardo/zanelliriccardo/zanelli_riccardo.pdf)
+<!--[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/zanelliriccardo/zanelliriccardo/zanelli_riccardo.pdf)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 
