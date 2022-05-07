@@ -5,6 +5,7 @@ I'm Riccardo Zanelli and I'm a Computer Science and Engineering student at Polit
 My studies are focused on Machine Learning and Data Science since my Bachelor Degree.
 
 :boy: **About me:**
+
 . I'm currently looking for an internship in Data Science / Machine Learning
 - I'm currently working in Uncertainty field during my Master Thesis
 
