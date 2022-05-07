@@ -4,6 +4,10 @@
 I'm Riccardo Zanelli and I'm a Computer Science and Engineering student at Politecnico di Milano.
 My studies are focused on Machine Learning and Data Science since my Bachelor Degree.
 
+:boy: **About me:**
+. I'm currently looking for an internship in Data Science / Machine Learning
+- I'm currently working in Uncertainty field during my Master Thesis
+
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 <!--[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/zanelliriccardo/zanelliriccardo/zanelli_riccardo.pdf)
 <!-- END LATEST DOWNLOAD BUTTON -->
@@ -29,7 +33,4 @@ My studies are focused on Machine Learning and Data Science since my Bachelor De
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanelliriccardo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
-:boy: **About me:**
 
-- I’m currently learning how to get prepared for a job interview
-- I'm currently working in Uncertainty field during my Master Thesis
