@@ -6,7 +6,7 @@ My studies are focused on Machine Learning and Data Science since my Bachelor De
 
 :boy: **About me:**
 
-. I'm currently looking for an internship in Data Science / Machine Learning
+- I'm currently looking for an internship in Data Science / Machine Learning
 - I'm currently working in Uncertainty field during my Master Thesis
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
