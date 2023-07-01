@@ -1,13 +1,12 @@
 ## Hi there, nice to meet you 👋
 
 
-I'm Riccardo Zanelli and I'm a Computer Science and Engineering student at Politecnico di Milano.
+I'm Riccardo Zanelli and I graduated in Computer Science and Engineering at Politecnico di Milano.
 My studies are focused on Machine Learning and Data Science since my Bachelor Degree.
 
 :boy: **About me:**
 
-- I'm currently looking for an internship in Data Science / Machine Learning
-- I'm currently working in Uncertainty field during my Master Thesis
+- I'm currently a Junior Data Scientist at Vodafone
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 <!--[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/zanelliriccardo/zanelliriccardo/zanelli_riccardo.pdf)
